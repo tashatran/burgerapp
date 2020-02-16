@@ -1,0 +1,35 @@
+{
+  "name": "da-burger",
+  "version": "1.0.0",
+  "description": "burger unit 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookekumar/burger.git"
+  },
+  "author": "Brooke Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookekumar/burger/issues"
+  },
+  "homepage": "https://github.com/brookekumar/burger#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "JSON",
+    "Handlebars",
+    "JS",
+    "HTML",
+    "CSS",
+    "Express"
+  ]
+}
