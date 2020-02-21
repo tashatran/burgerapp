@@ -1,3 +1,3 @@
 # burgerapp
 
-heroku link 
+heroku deployment 
